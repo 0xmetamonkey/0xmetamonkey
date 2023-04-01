@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xmetamonkey
-- 👀 I’m interested in learning music and codes and eating mushrooms.
-- 🌱 I’m currently learning solidity, javascript,nodejs,fl studio,indian classical music.
+- 👀 I’m interested in programming video editing film making and music.
+- 🌱 I’m currently learning solidity, javascript,nodejs,fl studio,indian classical music and da vinci resolve.
 - 💞️ I’m looking to collaborate on web3 projects.
 - 📫 How to reach me twitter : 0xmetamonkey
 
